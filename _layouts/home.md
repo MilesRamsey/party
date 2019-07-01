@@ -6,9 +6,6 @@ layout: default
 
   {{ content }}
   
-  {% capture intro_include %}{% include intro.md %}{% endcapture %}
-  {{ intro_include | markdownify }}
-  
   {% capture intro_include %}{% include party.md %}{% endcapture %}
   {{ intro_include | markdownify }}
 
