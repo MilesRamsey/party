@@ -4,9 +4,6 @@
             <h3>
                 {{ site.title }}
             </h3>
-            * test
-            * another 
-            * another
             <p>
                 {% capture intro_include %}{% include intro-text.md %}{% endcapture %}
                 {{ intro_include | markdownify }}
