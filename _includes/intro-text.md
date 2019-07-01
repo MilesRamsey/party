@@ -1,6 +1,8 @@
 Hey everyone, I bought a new house and could use some help moving the final pieces of furniture.  Also it's an opportunity for you to check out my new place and get some free pizza from The Pie and beer, and just hang out.
 
-Planning on starting at **4PM this Saturday (7/6)**
+Planning on starting at 
+
+### 4PM this Saturday (7/6)
 
 If you're late come anyway and hang out when we're all done moving stuff
 
