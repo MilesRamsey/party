@@ -1,7 +1,7 @@
 <div class="well">
     <div class="row">
         <div class="col-md-12 christmas">
-            <h1 class="center">
+            <h1 class="text-center">
                 <span>M</span>
                 <span>i</span>
                 <span>l</span>
