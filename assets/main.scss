@@ -3,3 +3,10 @@
 ---
 
 @import "minima";
+
+.christmas span:nth-of-type(even){
+    color:green;
+}
+.christmas span:nth-of-type(odd){
+    color:red;
+}
