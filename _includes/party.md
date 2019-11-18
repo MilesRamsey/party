@@ -1,8 +1,12 @@
 <div class="well">
     <div class="row">
         <div class="col-md-12">
-            <h1 class="text-center">
-                {{ site.title }}
+            <h1 class="text-center christmas">
+                <span>M</span>
+                <span>i</span>
+                <span>l</span>
+                <span>e</span>
+                <span>s</span>
             </h1>
             <p>
                 {% capture intro_include %}{% include intro-text.md %}{% endcapture %}
