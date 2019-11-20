@@ -9,7 +9,7 @@
   <link rel="shortcut icon" type="image/x-icon" href="/favicon-code.ico?">
 
   <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
-  <link rel="stylesheet" href="/party/assets/custom.scss">
+  <link rel="stylesheet" href="/party/assets/custom.css">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}">
   <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
