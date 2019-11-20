@@ -2,9 +2,9 @@
     <div class="row">
         <div class="col-md-12 christmas">
             <h1 class="text-center">
-                <span>M</span>
-                <span>i</span>
-                <span>l</span>
+                <span></span>M
+                <span></span>i
+                <span></span>l
                 <span>e</span>
                 <span>s' </span>
                 <span>A</span>
