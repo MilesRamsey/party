@@ -2,6 +2,7 @@
     <div class="row">
         <div class="col-md-12 christmas">
             <h1 class="text-center">
+                <p>
                 <span></span>M
                 <span></span>i
                 <span></span>l
@@ -24,6 +25,7 @@
                 <span>a</span>
                 <span>s</span>
                 <span>h</span>
+                </p>
             </h1>
             <p>
                 {% capture intro_include %}{% include intro-text.md %}{% endcapture %}
