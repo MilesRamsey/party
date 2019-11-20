@@ -4,3 +4,7 @@
 .christmas span:nth-of-type(odd){
     color:red;
 }
+
+body {
+    background-image: url("/party/assets/website-green-christmas-background.jpg");    
+}
