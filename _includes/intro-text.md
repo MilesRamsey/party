@@ -1,10 +1,10 @@
 
 ---
 
--[360 W Broadway #602](https://goo.gl/maps/NrHDyuq8Lu8n2gUt7) (read more ↓below↓ on how to get inside the building)
--Saturday December 14 @ 8:00 PM
--Bring something to eat or drink and wear an ugly sweater, Christmas onesie, or something
--Rules: Don't Be An Asshole
+- [360 W Broadway #602](https://goo.gl/maps/NrHDyuq8Lu8n2gUt7) (read more ↓below↓ on how to get inside the building)
+- Saturday December 14 @ 8:00 PM
+- Bring something to eat or drink and wear an ugly sweater, Christmas onesie, or something
+- Rules: Don't Be An Asshole
 
 Hey everyone, 
 Hey everyone, I bought a new house and could use some help moving the final pieces of furniture.  Also it's an opportunity for you to check out my new place and get some free pizza from The Pie and beer, and just hang out.
