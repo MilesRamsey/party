@@ -1,5 +1,15 @@
+
+---
+
+Image or intro?
 Hey everyone, I bought a new house and could use some help moving the final pieces of furniture.  Also it's an opportunity for you to check out my new place and get some free pizza from The Pie and beer, and just hang out.
 
+<div class="col-md-6">
+### What time is it at
+</div>
+<div class="col-md-6">
+### How to get there
+</div>
 Planning on starting at 
 
 ### 4PM this Saturday (7/6)
