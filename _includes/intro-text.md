@@ -11,6 +11,13 @@ Hey everyone, last year's party was awesome and everyone survived and the buildi
 ---
 
 <div class="col-md-6">
+  <h3>What to expect?</h3>
+  
+    Planning on starting at 
+
+  </div>
+
+<div class="col-md-6">
   <h3>How to get there and into the building </h3>
   
   Here's the address:
@@ -28,12 +35,7 @@ Hey everyone, last year's party was awesome and everyone survived and the buildi
   
   </div>
   
-  <div class="col-md-6">
-  <h3>What to expect?</h3>
   
-    Planning on starting at 
-
-  </div>
   
 </div>
 
