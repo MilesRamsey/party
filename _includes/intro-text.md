@@ -11,13 +11,6 @@ Hey everyone, last year's party was awesome and everyone survived and the buildi
 ---
 
 <div class="col-md-6">
-  <h3>What to expect?</h3>
-  
-    Planning on starting at 
-
-  </div>
-
-<div class="col-md-6">
   <h3>How to get there and into the building </h3>
   
   Here's the address:
@@ -35,10 +28,20 @@ Hey everyone, last year's party was awesome and everyone survived and the buildi
   
   </div>
   
-  
-  
 </div>
 
+<div class="col-md-6">
+  <h3>What to expect?</h3>
+  
+    - I've got a well stocked liquro cabinent, but if there's anything specific you want to drink bring it.
+    - The rooftop will be open with heaters, but it might be a little chilly.
+    - If you got any questions let me know.
+    
+    Here's a walkthrough of the place:
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/OXlz6xtwaF4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    
+
+</div>
 
 ---
 
