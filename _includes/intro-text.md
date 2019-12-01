@@ -16,14 +16,14 @@ Hey everyone, last year's party was awesome and everyone survived and the buildi
   Here's the address:
   <a href="https://goo.gl/maps/NrHDyuq8Lu8n2gUt7">360 W Broadway #602</a>
   
-  <h2>Entering the building:</h2>
+  <h4>Entering the building:</h4>
   <ul>
   <li>To enter the building use code <b>3-1-5-4-#</b> that's <b>three-one-five-four-pound/hash sign</b>.</li>
   <li>The elevator only works for residents, so you'll have to <b>take the stairs</b> to the top (floor #6), my place is on the west side #602.</li>
   </ul>
     
   
-  <h2>Parking:</h2>
+  <h4>Parking:</h4>
   I'd recommend taking a Lyft/Uber especially if you plan on drinking. Parking is a free for all, there's usually some public parking spaces right in front of the building that don't cost money from 6pm to 8am.  
 
   <div class="embed-responsive embed-responsive-16by9">
@@ -44,7 +44,7 @@ Hey everyone, last year's party was awesome and everyone survived and the buildi
   <li>If you got any questions let me know.</li>
   </ul>
     
-    <h2>Here's a walkthrough of the place:</h2>
+    <h4>Here's a walkthrough of the place:</h4>
     <div class="embed-responsive embed-responsive-16by9">
     
     <iframe width="560" height="315" src="https://www.youtube.com/embed/OXlz6xtwaF4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
