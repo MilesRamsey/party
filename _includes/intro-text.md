@@ -16,8 +16,12 @@ Hey everyone, last year's party was awesome and everyone survived and the buildi
   Here's the address:
   <a href="https://goo.gl/maps/NrHDyuq8Lu8n2gUt7">360 W Broadway #602</a>
   
-  Entering the building:
-  To enter the building use code **3-1-5-4-#** that's **three-one-five-four-pound/hash sign**.  The elevator only works for residents, so you'll have to **take the stairs** to the top (floor #6), my place is on the west side #602.
+  <p>Entering the building:</p>
+  <ul>
+  <li>To enter the building use code <b>3-1-5-4-#</b> that's <b>three-one-five-four-pound/hash sign</b>.</li>
+  <li>The elevator only works for residents, so you'll have to <b>take the stairs</b> to the top (floor #6), my place is on the west side #602.</li>
+  </ul>
+    
   
   Parking:
   I'd recommend taking a Lyft/Uber especially if you plan on drinking. Parking is a free for all, there's usually some public parking spaces right in front of the building that are don't cost money from 6pm to 8am.  
@@ -33,12 +37,18 @@ Hey everyone, last year's party was awesome and everyone survived and the buildi
 <div class="col-md-6">
   <h3>What to expect?</h3>
   
-    - I've got a well stocked liquro cabinent, but if there's anything specific you want to drink bring it.
-    - The rooftop will be open with heaters, but it might be a little chilly.
-    - If you got any questions let me know.
+  <ul>  
+  <li>I've got a well stocked liquor cabinent, but if there's anything specific you want to drink bring it.</li>
+  <li>The rooftop will be open with heaters, but it might be a little chilly.</li>
+  <li>If you got any questions let me know.</li>
+  </ul>
     
     Here's a walkthrough of the place:
+    <div class="embed-responsive embed-responsive-16by9">
+    
     <iframe width="560" height="315" src="https://www.youtube.com/embed/OXlz6xtwaF4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    
+     </div>
     
 
 </div>
