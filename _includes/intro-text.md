@@ -44,7 +44,7 @@ Hey everyone, last year's party was awesome and everyone survived and the buildi
   <li>If you got any questions let me know.</li>
   </ul>
     
-    Here's a walkthrough of the place:
+    <h2>Here's a walkthrough of the place:</h2>
     <div class="embed-responsive embed-responsive-16by9">
     
     <iframe width="560" height="315" src="https://www.youtube.com/embed/OXlz6xtwaF4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
