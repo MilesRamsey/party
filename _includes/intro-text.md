@@ -16,15 +16,15 @@ Hey everyone, last year's party was awesome and everyone survived and the buildi
   Here's the address:
   <a href="https://goo.gl/maps/NrHDyuq8Lu8n2gUt7">360 W Broadway #602</a>
   
-  <p>Entering the building:</p>
+  <h2>Entering the building:</h2>
   <ul>
   <li>To enter the building use code <b>3-1-5-4-#</b> that's <b>three-one-five-four-pound/hash sign</b>.</li>
   <li>The elevator only works for residents, so you'll have to <b>take the stairs</b> to the top (floor #6), my place is on the west side #602.</li>
   </ul>
     
   
-  Parking:
-  I'd recommend taking a Lyft/Uber especially if you plan on drinking. Parking is a free for all, there's usually some public parking spaces right in front of the building that are don't cost money from 6pm to 8am.  
+  <h2>Parking:</h2>
+  I'd recommend taking a Lyft/Uber especially if you plan on drinking. Parking is a free for all, there's usually some public parking spaces right in front of the building that don't cost money from 6pm to 8am.  
 
   <div class="embed-responsive embed-responsive-16by9">
   
@@ -38,8 +38,9 @@ Hey everyone, last year's party was awesome and everyone survived and the buildi
   <h3>What to expect?</h3>
   
   <ul>  
-  <li>I've got a well stocked liquor cabinent, but if there's anything specific you want to drink bring it.</li>
   <li>The rooftop will be open with heaters, but it might be a little chilly.</li>
+  <li>I've got a well stocked liquor cabinent, but if there's anything specific you want to drink bring it.</li>
+  <li>There'll also be hot toddies and warm apple cider</li>
   <li>If you got any questions let me know.</li>
   </ul>
     
